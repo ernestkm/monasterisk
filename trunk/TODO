@@ -1,0 +1,14 @@
+* -> Pending Tasks
+# -> Completed Tasks
+
+monasterisk-0.2a
+	# Create TODO
+	* Create README (Help + Installation)
+	* Make configuration file for variables
+	* Fix glitch in graph (Spike in graph when monasterisk is started/restarted)
+	* Make a nice HTML/PHP interface
+
+monasterisk-0.1a
+	# Connectivity to askterisk through ami
+	# Create rrd database
+	# Create Graphs
